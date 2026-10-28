@@ -39,23 +39,6 @@ AI-Event-Team-Formation/
 - `main.py` — Contains the graphical user interface and application features.
 - `csp_solver.py` — Contains the team formation logic using CSP and backtracking.
 
-## Application Screenshots
-
-### 1. Main Interface
-
-![Main Interface](main-interface.png)
-
-### 2. Registered Students
-
-![Registered Students](registered-students.png)
-
-### 3. Generated Teams
-
-![Generated Teams](generated-teams.png)
-
-### 4. CSP Model Explanation
-
-![CSP Explanation](csp-explanation.png)
 
 ## How to Run the Project
 
@@ -101,6 +84,6 @@ Backtracking tries possible student combinations. If a combination does not sati
 - Add more team formation constraints.
 - Develop a web-based version.
 
+## Conclusion
 
-**-Sanika Sutar**
-
+The AI Event Team Formation System successfully generates teams using Constraint Satisfaction Problems (CSP) and the Backtracking Algorithm. It considers student skills, availability, and team size to form suitable teams. This project reduces manual effort and makes team formation easier and more organized. 
